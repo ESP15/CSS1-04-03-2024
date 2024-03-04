@@ -1,0 +1,30 @@
+body{
+    background-color: #FFE4C4;
+}
+
+.container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box{
+    border: solid 1px black;
+    padding: 5px;
+    margin: 10px 0px;
+    background-color: #EFEFEF;
+    min-width: 100px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.box-2{
+    text-align: center;
+}
+
+.box-3{
+    text-align: right;
+}
